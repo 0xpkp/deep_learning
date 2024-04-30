@@ -1,0 +1,8 @@
+deep learning libraries :
+
+
+    tensorflow -> pip install tensorflow(import tensorflow)
+    keras -> pip install keras(import keras)
+    pytorch -> pip install torch torchvision torchaudio(import torch)
+    dl4j -> pip install pydl4j(import pydl4j)
+    opencv -> pip install opencv-python(import cv2)
